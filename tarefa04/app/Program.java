@@ -1,4 +1,4 @@
-package tarefa04.application;
+package tarefa04.app;
 
 import java.util.Locale;
 import java.util.Scanner;

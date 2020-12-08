@@ -1,4 +1,4 @@
-package exercicio06.application;
+package exercicio06.app;
 
 import java.util.ArrayList;
 import java.util.List;

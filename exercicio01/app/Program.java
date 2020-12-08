@@ -1,4 +1,4 @@
-package exercicio01.application;
+package exercicio01.app;
 
 import java.util.Locale;
 import java.util.Scanner;
