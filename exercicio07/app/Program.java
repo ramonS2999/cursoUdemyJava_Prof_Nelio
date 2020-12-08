@@ -1,4 +1,4 @@
-package exercicio07.application;
+package exercicio07.app;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

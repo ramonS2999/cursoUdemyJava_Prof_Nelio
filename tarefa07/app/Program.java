@@ -1,4 +1,4 @@
-package tarefa07.application;
+package tarefa07.app;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
