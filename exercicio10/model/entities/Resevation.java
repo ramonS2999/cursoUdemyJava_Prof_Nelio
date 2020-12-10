@@ -4,8 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import org.w3c.dom.DOMException;
-
 import exercicio10.model.exceptions.DomainException;
 
 public class Resevation {
